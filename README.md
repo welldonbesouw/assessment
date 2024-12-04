@@ -22,7 +22,7 @@ This feature returns a single post with the longest title.
 ### Getting all posts with modified response ("/modified")
 <img width="500" alt="Screenshot 2024-12-04 at 20 14 14" src="https://github.com/user-attachments/assets/abef8898-b36b-42f8-9e41-c4dddf564176">
 
-This feature returns all posts with added field of titleLength which counts each post title's length.
+This feature returns all posts with added field of titleLength which counts each post's title's length.
 
 
 ### Getting the post with the longest title using standard comparator ("/comparator/standard")
@@ -31,7 +31,7 @@ This feature returns all posts with added field of titleLength which counts each
 This feature returns a single post with the longest title using the standard comparator class.
 
 
-### Getting the post with the longet title using ignore case comparator ("/comparator/ignorecase")
+### Getting the post with the longest title using ignore case comparator ("/comparator/ignorecase")
 <img width="500" alt="Screenshot 2024-12-04 at 20 14 51" src="https://github.com/user-attachments/assets/e43ac368-7879-4f21-bf51-5d3a14d4ab0e">
 
 This feature returns a single post with the longest title using the ignore case comparator class.
