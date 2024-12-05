@@ -1,5 +1,5 @@
 # Assessment
-This assessment project is just a coding exercise to do a Spring Boot REST API call to JSONPlaceholder API (https://jsonplaceholder.typicode.com). This project uses JDK 21 and Spring Boot 3.4.0. Only a few features will be implemented as this is only an exercise. I use the RestClient for calling the JSONPlaceholder API. Unit testing is also done in the project.
+This assessment project is just a coding exercise to do a Spring Boot REST API call to JSONPlaceholder API (https://jsonplaceholder.typicode.com). This project uses JDK 21 and Spring Boot 3.4.0. I placed the code in a single package and implement only a few features as this is only an exercise. I use the RestClient for calling the JSONPlaceholder API. Unit testing is also done in the project.
 
 ## Getting Started
 To use this code, just clone the repository and import it to your IDE. Just make sure you have JDK 21 installed on your computer.
