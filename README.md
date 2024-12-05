@@ -6,7 +6,7 @@ To use this code, just clone the repository and import it to your IDE. Just make
 
 
 ## Features
-### Getting all posts ("/posts")
+### Getting all posts ("/")
 <img width="500" alt="Screenshot 2024-12-04 at 19 48 54" src="https://github.com/user-attachments/assets/0aa9a7d0-476f-4118-bec9-b35e1e2b60f1">
 <img width="500" alt="Screenshot 2024-12-04 at 20 13 12" src="https://github.com/user-attachments/assets/dc8aeae5-3767-4f0f-9781-e494f906c2a0">
 
