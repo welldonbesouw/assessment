@@ -63,7 +63,7 @@ class JsonPostServiceTest {
 		// then
 		JsonPost result = jsonPostService.getLongestTitlePost();
 		assertThat(result).isNotNull();
-		assertThat(result.title().length() > 60);
+		assertThat(result.title().length()).isGreaterThan(60);
 	}
 
 	@Test
@@ -79,7 +79,7 @@ class JsonPostServiceTest {
 		// then
 		JsonPost result = jsonPostService.getLongestTitleUsingStandardComparator();
 		assertThat(result).isNotNull();
-		assertThat(result.title().length() > 70);
+		assertThat(result.title().length()).isGreaterThan(70);
 	}
 
 	@Test
@@ -95,7 +95,7 @@ class JsonPostServiceTest {
 		// then
 		JsonPost result = jsonPostService.getLongestTitleUsingIgnoreCaseComparator();
 		assertThat(result).isNotNull();
-		assertThat(result.title().length() > 80);
+		assertThat(result.title().length()).isGreaterThan(70);
 	}
 	
 	@Test
